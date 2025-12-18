@@ -1,7 +1,22 @@
-### Kong
+### ChonkyKong
 
-48 key orthogonal keyboard with offset bottom row
+60 key orthogonal keyboard with numpad and makro rows
 
+## Fork
+
+This fork adds a version of the case that is printable with FDM and has cutouts for Stabs. There is also an insert for printing in TPU for a better sound (instead of foam).
+
+The little ring spacers can be connected to the top with the heat inserts.
+
+On the top is an accent piece, to print in a color fitting to your keycaps. It is just glued in place. You can also include it in the print of the top part, so it becomes one piece, if you dont want to have it. 
+
+
+![top](img/FDMCase1.jpg)
+![top](img/FDMCase2.jpg)
+![top](img/FDMCase3.jpg)
+![top](img/FDMCase4.jpg)
+
+Original
 ![top](img/chonkyKong_top.png)
 
 ## Features
