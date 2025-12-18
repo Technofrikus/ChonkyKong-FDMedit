@@ -14,7 +14,7 @@ On the top is an accent piece, to print in a color fitting to your keycaps. It i
 ![top](img/FDMCase1.jpg)
 ![top](img/FDMCase2.jpg)
 ![top](img/FDMCase3.jpg)
-![top](img/FDMCase4.jpg)
+![top](img/FDMCase4.png)
 
 Original
 ![top](img/chonkyKong_top.png)
